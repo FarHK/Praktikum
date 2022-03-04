@@ -1,0 +1,11 @@
+C:\Users\Farhan.H.K\source\repos\TP_modul_2\TP_modul_2\bin\Debug\TP_modul_2.exe.config
+C:\Users\Farhan.H.K\source\repos\TP_modul_2\TP_modul_2\bin\Debug\TP_modul_2.exe
+C:\Users\Farhan.H.K\source\repos\TP_modul_2\TP_modul_2\bin\Debug\TP_modul_2.pdb
+C:\Users\Farhan.H.K\source\repos\TP_modul_2\TP_modul_2\obj\Debug\TP_modul_2.csproj.AssemblyReference.cache
+C:\Users\Farhan.H.K\source\repos\TP_modul_2\TP_modul_2\obj\Debug\TP_modul_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Farhan.H.K\source\repos\TP_modul_2\TP_modul_2\obj\Debug\TP_modul_2.Form1.resources
+C:\Users\Farhan.H.K\source\repos\TP_modul_2\TP_modul_2\obj\Debug\TP_modul_2.Properties.Resources.resources
+C:\Users\Farhan.H.K\source\repos\TP_modul_2\TP_modul_2\obj\Debug\TP_modul_2.csproj.GenerateResource.cache
+C:\Users\Farhan.H.K\source\repos\TP_modul_2\TP_modul_2\obj\Debug\TP_modul_2.csproj.CoreCompileInputs.cache
+C:\Users\Farhan.H.K\source\repos\TP_modul_2\TP_modul_2\obj\Debug\TP_modul_2.exe
+C:\Users\Farhan.H.K\source\repos\TP_modul_2\TP_modul_2\obj\Debug\TP_modul_2.pdb
